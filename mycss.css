@@ -1,0 +1,10 @@
+/* 注意：class选择器前有 . 号。 */
+.center{
+    text-align: center;
+  }
+  .large{
+    font-size: 30px;
+  }
+  .red{
+    color:red;
+  }
